@@ -1,4 +1,4 @@
-#  Antigravity-cli Security Toolkit
+#  Antigravity-cli Security Framework
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-green.svg)]()
